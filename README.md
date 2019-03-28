@@ -1,2 +1,2 @@
-# myRespository
-restore those stuff in learning life
+# node application part
+useful part during developing application in node environment
